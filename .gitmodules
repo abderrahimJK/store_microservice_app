@@ -10,3 +10,6 @@
 [submodule "eureka-descovery"]
 	path = eureka-descovery
 	url = https://github.com/abderrahimJK/eureka-descovery.git
+[submodule "billing-service"]
+	path = billing-service
+	url = https://github.com/abderrahimJK/billing-service.git
