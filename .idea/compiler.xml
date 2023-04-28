@@ -7,10 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Inventory_service" />
+        <module name="Customer_service" />
+        <module name="gateway-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Customer_service" target="17" />
+      <module name="gateway-service" target="17" />
       <module name="Inventory_service" target="17" />
     </bytecodeTargetLevel>
   </component>
@@ -18,6 +22,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Customer_service" options="-parameters" />
       <module name="Inventory_service" options="-parameters" />
+      <module name="gateway-service" options="-parameters" />
     </option>
   </component>
 </project>

@@ -4,3 +4,6 @@
 [submodule "Inventory-service"]
 	path = Inventory-service
 	url = https://github.com/abderrahimJK/Inventory-service.git
+[submodule "gateway-service"]
+	path = gateway-service
+	url = https://github.com/abderrahimJK/gateway-service.git

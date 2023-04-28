@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/customer-service/Customer_service.iml" filepath="$PROJECT_DIR$/customer-service/Customer_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inventory-service/Inventory_service.iml" filepath="$PROJECT_DIR$/Inventory-service/Inventory_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/first_microservice.iml" filepath="$PROJECT_DIR$/.idea/first_microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/gateway-service/gateway-service.iml" />
     </modules>
   </component>
 </project>
