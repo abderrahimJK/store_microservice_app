@@ -7,3 +7,6 @@
 [submodule "gateway-service"]
 	path = gateway-service
 	url = https://github.com/abderrahimJK/gateway-service.git
+[submodule "eureka-descovery"]
+	path = eureka-descovery
+	url = https://github.com/abderrahimJK/eureka-descovery.git
